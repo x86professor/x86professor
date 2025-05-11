@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham kumar</h1>
 <h3 align="center">Aspiring Software Engineer | DSA in C++ |Web-Development</h3>
 
-- 🌱 I’m currently learning DSA C++ **DSA C++ | Web-Development**
+- 🌱 I’m currently learning  **DSA C++ | Web-Development**
 
 - 💬 Ask me about **C language**
 
